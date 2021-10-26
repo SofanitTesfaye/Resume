@@ -58,7 +58,7 @@ Responsibilities:
 •	Styling pages with CSS and developed JavaScript for user interfaces.
 Environment: HTML, CSS, React.js, Node.js, SDLC, jQuery, Git, GitHub, Ruby, JavaScript
 
-BCBS, VA	                                                                                                  Aug 2019 –Apr 2020
+             BCBS, VA	                                                                                                  Aug 2019 –Apr 2020
 Role: Front End Developer
 Responsibilities:										
 •	Involved in developing the UI pages using HTML, CSS, JavaScript 
@@ -75,3 +75,4 @@ Responsibilities:
 
 Environment: JavaScript, React.js, Node.js, SDLC, jQuery, Git, SQL 
 
+z
