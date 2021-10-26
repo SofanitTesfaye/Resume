@@ -1,7 +1,7 @@
 # Resume
 
-##	2+ years of professional experience in developing User Interface for web applications as a Front - end UI developer.
-#	Experience working under agile methodologies environment and SDLC.
+.	2+ years of professional experience in developing User Interface for web applications as a Front - end UI developer.
+.	Experience working under agile methodologies environment and SDLC.
 •	Work on developing experience using web technologies such as HTML, JavaScript, CSS, jQuery and React.js 
 •	Good in web page layout creation using CSS media queries for responsive design.
 •	Experience in using React.js along with JSON to parse response data for user interface pages.
